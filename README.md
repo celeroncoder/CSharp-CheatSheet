@@ -4,7 +4,7 @@
 
 - **change to the dir** where you want the application.
 
-- \_Run the command in the terminal :-
+- Run the command in the terminal :-
 
   ```
   $dotnet new console
@@ -17,7 +17,7 @@
 
 ## How C# execute a program?
 
-- In the _.cs_ file the compiler finds the the line
+- In the **.cs** file the compiler finds the the line
 
   ```
   static void Main(string[] args)
