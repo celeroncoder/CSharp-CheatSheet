@@ -157,7 +157,7 @@ Variables in C# are _the container to store data_ in the _program_.
   Console.WriteLine(true);
   ```
 
-## .gitIgnore
+## .gitignore
 
 - to _create a .gitignore for .NET application go to the terminal in the project dir and type the command_
   ```
