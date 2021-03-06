@@ -230,7 +230,7 @@ Variables in C# are _the container to store data_ in the _program_.
   string[] arrayOfNumbers = new String[45]; // 45 is the number of elements the array can hold.
   ```
 
-#### indexing an array
+#### Indexing an array
 
 - To gain access to _individual element of an array_ we use _indexing_
 
